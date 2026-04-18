@@ -11,7 +11,7 @@
 
 <!-- BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shreyash-Satpute/Shreyash-Satpute/main/cover.jpg"
+  <img src="https://raw.githubusercontent.com/Shreyash-Satpute/Shreyash-Satpute/main/Banner.jpeg"
        width="90%"
        style="border-radius:20px; box-shadow: 0 0 40px rgba(0, 255, 136, 0.4);" />
 </p>
