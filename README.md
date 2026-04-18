@@ -33,19 +33,34 @@
 
 ```yaml
 name: Shreyash Satpute
-role: DevOps Engineer
+role: Aspiring DevOps Engineer
 location: India 🇮🇳
+
 focus:
-  - Cloud-Native Infrastructure
-  - Security-First Pipelines
-  - Platform Engineering
-  - SRE & Observability
-philosophy: "Don't fix what breaks — design so it doesn't break"
+  - Cloud Fundamentals (AWS)
+  - CI/CD Pipelines (GitHub Actions, Jenkins)
+  - Containerization (Docker)
+  - Linux & System Administration
+
+philosophy: "Automate repetitive tasks and build reliable systems step by step"
+
 currently_learning:
-  - eBPF for deep system observability
-  - Multi-cluster Kubernetes federation
-  - AI-assisted infrastructure ops
-open_to: Collaborations, Cloud Projects, Open Source
+  - Kubernetes fundamentals & deployments
+  - Infrastructure as Code (Terraform basics)
+  - Monitoring tools (Prometheus & Grafana)
+
+tools:
+  - AWS
+  - Docker
+  - Git & GitHub
+  - Linux
+  - Jenkins
+
+open_to:
+  - Entry-level DevOps roles
+  - Internships
+  - Real-world cloud projects
+  - Open Source contributions
 ```
 
 <br clear="right"/>
