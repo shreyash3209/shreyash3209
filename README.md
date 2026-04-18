@@ -6,7 +6,7 @@
 
 <!-- HERO HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Suchith K%20K&fontSize=70&fontColor=00ff88&animation=twinkling&fontAlignY=40&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Automation%20Wizard&descSize=18&descAlignY=62&descColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Shreyash Satpute%20K&fontSize=70&fontColor=00ff88&animation=twinkling&fontAlignY=40&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Automation%20Wizard&descSize=18&descAlignY=62&descColor=ffffff" />
 </p>
 
 <!-- BANNER -->
@@ -32,7 +32,7 @@
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" style="border-radius:16px;"/>
 
 ```yaml
-name: Shreyas Satpute
+name: Shreyash Satpute
 role: DevOps Engineer
 location: India 🇮🇳
 focus:
