@@ -193,5 +193,5 @@ open_to: Collaborations, Cloud Projects, Open Source
 </p>
 
 <p align="center">
-  <sub>⚡ Built with passion, deployed with precision · Shreyash Satpute © 2025</sub>
+  <sub>⚡ Built with passion, deployed with precision · Shreyash Satpute © 2026</sub>
 </p>
