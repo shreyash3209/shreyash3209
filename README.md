@@ -6,7 +6,7 @@
 
 <!-- HERO HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Shreyash%20Satpute&fontSize=70&fontColor=00ff88&animation=twinkling&fontAlignY=40&desc=Aspiring%20DevOps%20Engineer%20%7C%20AWS%20%7C%20Docker%20%7C%20CI/CD&descSize=18&descAlignY=62&descColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Shreyash%20Satpute&fontSize=70&fontColor=00ff88&animation=twinkling&fontAlignY=40&desc=Aspiring%20DevOps%20Engineer%20%7C%20AWS%20%7C%20Docker%20%7C%20CI/CD%20%7C%20Linux&descSize=18&descAlignY=62&descColor=ffffff" />
 </p>
 
 <!-- BANNER -->
@@ -21,7 +21,7 @@
 <!-- ANIMATED TAGLINE -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=900&height=60&lines=Aspiring+DevOps+Engineer;Hands-on+with+AWS,+Docker+and+Linux;Building+CI/CD+pipelines+using+Jenkins;Learning+Kubernetes+and+Cloud+Technologies;Open+to+DevOps+Internships+and+Opportunities" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=900&height=60&lines=Aspiring+DevOps+Engineer;Hands-on+with+AWS,+Docker+and+Linux;Building+CI/CD+pipelines+with+Jenkins;Learning+Kubernetes+and+Cloud+technologies;Open+to+DevOps+internships+and+roles" />
   </a>
 </p>
 
@@ -112,7 +112,7 @@ open_to:
 ### 🔄 CI/CD & Automation
 <p align="center">
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-<!-- <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/> -->
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 <!-- <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/> -->
 </p>
 
@@ -175,7 +175,7 @@ open_to:
 ## 💡 Dev Philosophy
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&quote=Automate%20the%20boring.%20Architect%20the%20resilient.%20Secure%20the%20rest.&author=Shreyash%20Satpute" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&quote=Automate%20tasks.%20Build%20reliable%20systems.%20Keep%20learning%20every%20day.&author=Shreyash%20Satpute" />
 </p>
 
 ---
@@ -183,7 +183,7 @@ open_to:
 ## 🤝 Let's Build Together
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/shreyash3209/](https://www.linkedin.com/in/shreyashsatpute7/)">
+  <a href="https://www.linkedin.com/in/shreyashsatpute7/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
