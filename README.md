@@ -67,7 +67,7 @@ open_to:
 
 ---
 
-## ⚡ Current Mission
+<!--## ⚡ Current Mission
 
 <table align="center" border="0">
 <tr>
@@ -82,14 +82,13 @@ open_to:
 <!-- <td align="center" width="25%">
 <img src="https://img.shields.io/badge/-DevSecOps-FF6B6B?style=for-the-badge&logo=snyk&logoColor=white"/><br/>
 <sub><b>Zero-Trust CI/CD</b></sub>
-</td> -->
+</td> 
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/-Observability-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/><br/>
 <sub><b>Monitoring</b></sub>
 </td>
 </tr>
-</table>
-
+</table>-->
 ---
 
 ## 🛠️ Tech Arsenal
