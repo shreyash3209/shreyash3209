@@ -6,7 +6,7 @@
 
 <!-- HERO HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Shreyash%20Satpute&fontSize=70&fontColor=00ff88&animation=twinkling&fontAlignY=40&desc=desc=Aspiring%20DevOps%20Engineer%20%7C%20AWS%20%7C%20Docker%20%7C%20CI/CD&descSize=18&descAlignY=62&descColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Shreyash%20Satpute&fontSize=70&fontColor=00ff88&animation=twinkling&fontAlignY=40&desc=Aspiring%20DevOps%20Engineer%20%7C%20AWS%20%7C%20Docker%20%7C%20CI/CD&descSize=18&descAlignY=62&descColor=ffffff" />
 </p>
 
 <!-- BANNER -->
