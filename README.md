@@ -88,9 +88,9 @@ open_to:
 <sub><b>Monitoring</b></sub>
 </td>
 </tr>
-</table>-->
+</table>
 ---
-
+-->
 ## 🛠️ Tech Arsenal
 
 ### ☁️ Cloud & Infrastructure
