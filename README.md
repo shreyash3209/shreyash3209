@@ -6,7 +6,7 @@
 
 <!-- HERO HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Shreyash%20Satpute&fontSize=70&fontColor=00ff88&animation=twinkling&fontAlignY=40&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Automation%20Wizard&descSize=18&descAlignY=62&descColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Shreyash%20Satpute&fontSize=70&fontColor=00ff88&animation=twinkling&fontAlignY=40&desc=desc=Aspiring%20DevOps%20Engineer%20%7C%20AWS%20%7C%20Docker%20%7C%20CI/CD&descSize=18&descAlignY=62&descColor=ffffff" />
 </p>
 
 <!-- BANNER -->
@@ -21,7 +21,7 @@
 <!-- ANIMATED TAGLINE -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&repeat=true&width=900&height=60&lines=%F0%9F%9A%80+Deploying+dreams+to+production...;%E2%98%81%EF%B8%8F+Architecting+clouds+that+never+fall...;%F0%9F%94%92+Securing+systems+at+zero+trust...;%F0%9F%A4%96+Automating+everything+possible...;%F0%9F%8C%9F+Making+infrastructure+invisible..." />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&repeat=true&width=900&height=60&lines=🚀+Learning+DevOps+step+by+step...;☁️+Working+with+AWS+(EC2,+S3,+IAM)...;🐳+Building+Docker+containers...;⚙️+Creating+CI/CD+pipelines+using+Jenkins...;📈+Improving+Linux+and+cloud+skills..." />
   </a>
 </p>
 
