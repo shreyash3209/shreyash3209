@@ -21,7 +21,7 @@
 <!-- ANIMATED TAGLINE -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&repeat=true&width=900&height=60&lines=🚀+Learning+DevOps+step+by+step...;☁️+Working+with+AWS+(EC2,+S3,+IAM)...;🐳+Building+Docker+containers...;⚙️+Creating+CI/CD+pipelines+using+Jenkins...;📈+Improving+Linux+and+cloud+skills..." />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Learning+DevOps+step+by+step...;Working+with+AWS+EC2+S3+IAM...;Building+Docker+containers...;Creating+CI/CD+pipelines+using+Jenkins...;Improving+Linux+and+cloud+skills..." />
   </a>
 </p>
 
