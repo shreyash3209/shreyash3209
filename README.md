@@ -155,7 +155,7 @@ open_to:
 ## 🏆 Trophies & Milestones
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shreyash3209&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shreyash3209&theme=onedark&no-frame=true&margin-w=10&margin-h=10" />
 </p>
 
 ---
