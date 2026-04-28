@@ -183,9 +183,9 @@ open_to:
 ## 🤝 Let's Build Together
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shreyashsatpute7/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+ <a href="https://www.linkedin.com/in/shreyashsatpute7/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
   &nbsp;
   <a href="mailto:satputeshreyash2503@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
